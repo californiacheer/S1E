@@ -1,12 +1,12 @@
 {
-  "name": "White Gold Team Hub",
-  "short_name": "White Gold Hub",
-  "description": "California All Stars White Gold team hub \u2014 schedule, calendar, packing lists, and updates for team parents.",
+  "name": "The App",
+  "short_name": "The App",
+  "description": "Made for cheer parents, by a cheer parent. One app for every child's team.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0d1220",
-  "theme_color": "#1688f5",
+  "background_color": "#ffffff",
+  "theme_color": "#3d6fe0",
   "orientation": "portrait",
   "icons": [
     {
